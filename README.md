@@ -24,3 +24,11 @@ You'll accomplish this while conforming to a style guide which is an important c
 - Without a portfolio, recruiters won’t even look at your resume much less interview you.
 - At their very foundation, web applications are just content delivery mechanisms; HTML defines how that language is structured.
 - Reading poorly designed content is never an enjoyable experience; CSS empowers you to create beautiful content regardless of your user’s device.
+
+## Screenshots from submitted code that passed the review
+
+![alt text](screenshots/nexus5.webp "Nexus 5 emulator")
+
+![alt text](screenshots/ipad.webp "iPad emulator")
+
+![alt text](screenshots/laptop.webp "Laptop emulator")
