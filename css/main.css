@@ -111,8 +111,15 @@ h2 {
 
 .featured figcaption {
   text-align: center;
+}
+
+.featured .caption-title {
   text-transform: uppercase;
   margin: 0.5em auto;
+}
+
+.featured .caption-link {
+  display: none;
 }
 
 .resume {
@@ -150,9 +157,9 @@ h2 {
   .featured h3 {
     font-size: 1.8em;
   }
-  .featured figcaption {
+  .featured .caption-title {
     font-size: 1.2em;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.25em;
   }
 }
 
@@ -171,7 +178,16 @@ h2 {
     font-size: 2em;
   }
   .featured figcaption {
+    text-align: left;
+  }
+  .featured .caption-title {
     font-size: 1.4em;
+    letter-spacing: 0.5em;
+  }
+  .featured .caption-link {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.2em;
   }
 }
 
