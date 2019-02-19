@@ -1,31 +1,33 @@
-# FEND-build-a-portfolio
-Udacity Front-End Web Developer Nanodegree Project 1: Build a Portfolio Site
+# Build a Portfolio project
 
-**Project Overview**
+Udacity Front-End Web Developer Nanodegree Project: Build a Portfolio Site
 
-You will be provided a design mockup as a PDF-file and must replicate that design in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete through the course of the Front-End Web Developer nanodegree.
+## Table of Contents
 
-Once you've successfully replicated the design mockup, you are encouraged to continue tweaking and making customizations to the design to personalize it and make it your own!
+- [Project Overview](#project-overview)
+- [Project Specifications](#project-specifications)
+- [Contributing](#contributing)
+- [Screenshots](#screenshots)
 
-**Why this Project?**
+## Project Overview
 
-The first thing potential employers look for isn’t which school you attended or what your GPA was; they want to see what you’ve built! You need a professional portfolio to show off your skills.
+The objective of the project is to develop a responsive website that will display images, descriptions and links to each of the portfolio projects that will be completed through the course of the Front-End Web Developer nanodegree.
 
-In this project you’ll build a great look portfolio where you can show off images, descriptions and link to all of your projects. You'll do so writing code that conforms to the Udacity Style Guide.
+- The portfolio website must replicate the [design mockup](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf) using HTML and CSS.
 
-**What will I learn?**
+- The code must conform to the [Udacity Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/).
 
-You will learn how HTML is used to define the content of a web page and start to think of every web page as a number of boxes on the screen. You’ll then learn how to position those boxes and make them beautiful using CSS.
+## Project Specifications
 
-You'll accomplish this while conforming to a style guide which is an important constraint once you step into any existing development position.
+The project must meet all specifications in the [rubric](https://review.udacity.com/#!/rubrics/45/view).
 
-**Why is this Important to my Career?**
+## Contributing
 
-- Without a portfolio, recruiters won’t even look at your resume much less interview you.
-- At their very foundation, web applications are just content delivery mechanisms; HTML defines how that language is structured.
-- Reading poorly designed content is never an enjoyable experience; CSS empowers you to create beautiful content regardless of your user’s device.
+This repository is for a project for the Front-End Web Developer NanoDegree program at Udacity. Therefore, pull requests will not be accepted.
 
-## Screenshots from submitted code that passed the review
+## Screenshots
+
+These are screenshots from submitted code that passed the review:
 
 ![alt text](screenshots/nexus5.webp "Nexus 5 emulator")
 
