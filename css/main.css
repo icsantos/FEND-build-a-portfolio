@@ -122,6 +122,11 @@ h2 {
   display: none;
 }
 
+.featured_list {
+  display: flex;
+  flex-wrap: wrap
+}
+
 .resume {
   width: calc((100% - 2em)/3);
   order: 1;
@@ -142,6 +147,14 @@ h2 {
 /*
   ========================= Breakpoints =========================
 */
+
+@media screen and (max-width: 20em) {
+  .resume,
+  .github,
+  .photography {
+    width: 100%;
+  }
+}
 
 @media screen and (min-width: 30em) {
   .logo {
